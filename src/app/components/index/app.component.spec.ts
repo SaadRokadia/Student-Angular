@@ -1,6 +1,3 @@
-/**
- * Created By : Sangwin Gawande (https://sangw.in)
- */
 
 import { TestBed, async } from '@angular/core/testing';
 import { AppComponent } from './app.component';
@@ -30,6 +27,3 @@ describe('AppComponent', () => {
   }));
 });
 
-/**
- * Created By : Sangwin Gawande (https://sangw.in)
- */

@@ -1,7 +1,3 @@
-/**
- * Created By : Sangwin Gawande (https://sangw.in)
- */
-
 import { TestBed, inject } from '@angular/core/testing';
 
 import { StudentService } from './student.service';
@@ -17,7 +13,3 @@ describe('StudentService', () => {
     expect(service).toBeTruthy();
   }));
 });
-
-/**
- * Created By : Sangwin Gawande (https://sangw.in)
- */

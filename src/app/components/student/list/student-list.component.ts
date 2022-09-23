@@ -1,7 +1,3 @@
-/**
- * Created By : Sangwin Gawande (https://sangw.in)
- */
-
 import { Component, OnInit } from '@angular/core';
 import { ToastrService } from 'ngx-toastr';
 
@@ -54,6 +50,3 @@ export class StudentListComponent implements OnInit {
 		}
 	}
 }
-/**
- * Created By : Sangwin Gawande (https://sangw.in)
- */

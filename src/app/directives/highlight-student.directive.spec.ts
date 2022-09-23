@@ -1,7 +1,3 @@
-/**
- * Created By : Sangwin Gawande (https://sangw.in)
- */
-
 import { HighlightStudentDirective } from './highlight-student.directive';
 
 describe('HighlightStudentDirective', () => {
@@ -10,7 +6,3 @@ describe('HighlightStudentDirective', () => {
     expect(directive).toBeTruthy();
   });
 });
-
-/**
- * Created By : Sangwin Gawande (https://sangw.in)
- */

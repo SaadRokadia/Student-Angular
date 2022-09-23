@@ -1,6 +1,3 @@
-/**
- * Created By : Sangwin Gawande (https://sangw.in)
- */
 
 import { Component } from '@angular/core';
 
@@ -12,49 +9,31 @@ import { Component } from '@angular/core';
 
 
 export class AppComponent {
-	title = 'Student Management By Sangwin Gawande';
+	title = 'Student Management By Saad Rokadia';
 
 	// Add few students for initial listing
 	studentsList = [
 	{	
 		id : 1,
-		first_name : "Sangwin",
-		last_name : "Gawande",
-		email : "sangwin@yopmail.com",
-		phone : 9503733178,
-		department : "Science"
+		first_name : "Saad",
+		last_name : "Rokadia",
+		email : "saadrokadia@gmail.com",
+		phone : 8433631416,
 	},
 	{
 		id : 2,
-		first_name : "Oman",
-		last_name : "Umir",
-		email : "oman@yopmail.com",
-		phone : 8574889658,
-		department : "Commerce"
+		first_name : "Biz",
+		last_name : "Technologies",
+		email : "Biz@yahoo.com",
+		phone : 9876543210,
+		
 	},
 	{
 		id : 3,
-		first_name : "Tina",
-		last_name : "Dillon",
-		email : "tina@yopmail.com",
-		phone : 7485889658,
-		department : "Science"
-	},
-	{
-		id : 4,
-		first_name : "John",
-		last_name : "Doe",
-		email : "john@yopmail.com",
-		phone : 9685589748,
-		department : "Arts"
-	},
-	{
-		id : 5,
-		first_name : "Peter",
-		last_name : "Parker",
-		email : "peter@yopmail.com",
-		phone : 8595856547,
-		department : "Engineering"
+		first_name : "ABCD",
+		last_name : "XYZ",
+		email : "ABCD@gmail.com",
+		phone :9876541230,
 	}
 	];
 
@@ -63,7 +42,3 @@ export class AppComponent {
 		localStorage.setItem('students', JSON.stringify(this.studentsList));
 	}
 }
-
-/**
- * Created By : Sangwin Gawande (https://sangw.in)
- */

@@ -1,11 +1,9 @@
 {
-  "name": "angular-student-management",
+  "name": "student-angular",
   "version": "13.0.0",
   "author": {
-    "name": "Sangwin Gawande",
-    "url": "https://sangw.in",
-    "author": "Sangwin Gawande (https://sangw.in)",
-    "email": "imsangwin@gmail.com"
+    "name": "Saad Rokadia",
+    "email": "rokadiasaad@gmail.com"
   },
   "scripts": {
     "ng": "ng",

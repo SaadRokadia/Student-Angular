@@ -1,6 +1,3 @@
-/**
- * Created By : Sangwin Gawande (https://sangw.in)
- */
 
 import { Component, OnInit } from '@angular/core';
 import { RouterModule, Routes, Router } from '@angular/router';
@@ -69,7 +66,3 @@ export const homeChildRoutes: Routes = [
 		component: StudentDetailsComponent
 	}
 ];
-
-/**
- * Created By : Sangwin Gawande (https://sangw.in)
- */

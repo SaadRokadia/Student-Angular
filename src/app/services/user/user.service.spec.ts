@@ -1,6 +1,4 @@
-/**
- * Created By : Sangwin Gawande (https://sangw.in)
- */
+
 
 import { TestBed, inject } from '@angular/core/testing';
 
@@ -17,7 +15,3 @@ describe('UserService', () => {
     expect(service).toBeTruthy();
   }));
 });
-
-/**
- * Created By : Sangwin Gawande (https://sangw.in)
- */

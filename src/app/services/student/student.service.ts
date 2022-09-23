@@ -1,7 +1,3 @@
-/**
- * Created By : Sangwin Gawande (https://sangw.in)
- */
-
  import { Injectable } from '@angular/core';
 
  @Injectable()
@@ -112,6 +108,3 @@
    }
 
  }
-/**
- * Created By : Sangwin Gawande (https://sangw.in)
- */

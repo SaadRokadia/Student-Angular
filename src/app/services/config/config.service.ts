@@ -1,19 +1,16 @@
-/**
- * Created By : Sangwin Gawande (https://sangw.in)
- */
 
 import { animate, style, transition, trigger } from '@angular/animations';
 import { Injectable } from '@angular/core';
 import { AbstractControl, ValidatorFn } from '@angular/forms';
 
 @Injectable()
-export class ConfigService {
-	apiURL:string;
-	constructor() {
-		this.apiURL = "http://localhost/saNG4-Demo-App/api/";
-	}
+// export class ConfigService {
+// 	apiURL:string;
+// 	constructor() {
+// 		this.apiURL = "http://localhost/api/";
+// 	}
 
-}
+// }
 
 export class ValidationService {
 
@@ -65,8 +62,3 @@ function slideToLeft() {
 		]);
 }
 
-
-
-/**
- * Created By : Sangwin Gawande (https://sangw.in)
- */

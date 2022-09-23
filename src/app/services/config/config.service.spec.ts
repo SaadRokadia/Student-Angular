@@ -1,6 +1,3 @@
-/**
- * Created By : Sangwin Gawande (https://sangw.in)
- */
 
 import { TestBed, inject } from '@angular/core/testing';
 
@@ -17,7 +14,3 @@ describe('ConfigService', () => {
     expect(service).toBeTruthy();
   }));
 });
-
-/**
- * Created By : Sangwin Gawande (https://sangw.in)
- */

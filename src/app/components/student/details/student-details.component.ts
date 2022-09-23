@@ -1,6 +1,3 @@
-/**
- * Created By : Sangwin Gawande (https://sangw.in)
- */
  import { Component, OnInit } from '@angular/core';
  import {Validators, FormBuilder, FormGroup} from '@angular/forms';
  import { RouterModule, Routes ,Router,ActivatedRoute} from '@angular/router';
@@ -44,7 +41,3 @@
  	}
 
  }
-
-/**
- * Created By : Sangwin Gawande (https://sangw.in)
- */

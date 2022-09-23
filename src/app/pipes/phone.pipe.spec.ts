@@ -1,7 +1,3 @@
-/**
- * Created By : Sangwin Gawande (https://sangw.in)
- */
-
 import { PhonePipe } from './phone.pipe';
 
 describe('PhonePipe', () => {
@@ -10,8 +6,3 @@ describe('PhonePipe', () => {
     expect(pipe).toBeTruthy();
   });
 });
-
-
-/**
- * Created By : Sangwin Gawande (https://sangw.in)
- */

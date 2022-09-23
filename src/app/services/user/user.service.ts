@@ -1,6 +1,3 @@
-/**
- * Created By : Sangwin Gawande (https://sangw.in)
- */
 
 import { Injectable } from '@angular/core';
 // import { HttpClient } from '@angular/common/http';
@@ -11,7 +8,7 @@ export class UserService {
 	constructor() { }
 
 	doLogin(data: any) {
-		if (data.email == "admin@yopmail.com" && data.password == "admin123") {
+		if (data.email == "saad@gmail.com" && data.password == "saad123") {
 			return {
 				code: 200,
 				message: "Login Successful",
@@ -30,7 +27,3 @@ export class UserService {
 	// 	return this.http.post('user-add.php',data);	
 	// }
 }
-
-/**
- * Created By : Sangwin Gawande (https://sangw.in)
- */

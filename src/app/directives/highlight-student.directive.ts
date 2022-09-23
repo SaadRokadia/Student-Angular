@@ -1,7 +1,3 @@
-/**
- * Created By : Sangwin Gawande (https://sangw.in)
- */
-
 import { Directive, ElementRef,HostListener } from '@angular/core';
 
 @Directive({
@@ -24,7 +20,3 @@ export class HighlightStudentDirective {
 		this.el.nativeElement.style.backgroundColor = color;
 	}
 }
-
-/**
- * Created By : Sangwin Gawande (https://sangw.in)
- */

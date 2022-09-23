@@ -1,6 +1,3 @@
-/**
- * Created By : Sangwin Gawande (https://sangw.in)
- */
 
 import { async, ComponentFixture, TestBed } from '@angular/core/testing';
 
@@ -27,7 +24,3 @@ describe('LoginComponent', () => {
     expect(component).toBeTruthy();
   });
 });
-
-/**
- * Created By : Sangwin Gawande (https://sangw.in)
- */
